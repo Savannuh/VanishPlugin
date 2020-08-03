@@ -1,0 +1,6 @@
+name: Vanish
+version: ${project.version}
+main: me.savnnuh.vanish.Main
+api-version: 1.13
+authors: [Mathijs]
+description: Plugin to hide yourself from others
